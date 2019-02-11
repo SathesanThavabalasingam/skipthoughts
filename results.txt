@@ -1,0 +1,14 @@
+# Result from SICK evaluation
+Test Pearson: 0.8595763994374602
+Test Spearman: 0.7925365019300544
+Test MSE: 0.26687643793736604
+
+
+# Result from MSRP evaluation
+Test accuracy: 0.7536231884057971
+Test F1: 0.8267427639624948
+
+
+# MSRP with 10-fold cross validation
+Test accuracy: 0.7478260869565218
+Test F1: 0.8212083847102343
